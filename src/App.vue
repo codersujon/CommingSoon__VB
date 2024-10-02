@@ -7,7 +7,7 @@ const cs = "Coming Soon"
 </script>
 
 <template>
-  <div class="bg-img1 size1 overlay1 p-t-24" style="background-image: url('/src/assets/images/bg01.jpg');">
+  <div class="bg-img1 size1 overlay1 p-t-24">
     <div class="flex-w flex-sb-m p-l-80 p-r-74 p-b-175 respon5">
       
       <!-- logo -->
