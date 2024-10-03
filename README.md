@@ -1,4 +1,5 @@
 ## Project Setup
+**[Live Demo](https://cs-comingsoon.netlify.app/)**
 
 ```sh
 npm install
